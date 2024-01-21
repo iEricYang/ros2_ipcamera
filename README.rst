@@ -12,7 +12,7 @@ Installation:
 
 .. code:: bash
 
-  git clone https://github.com/surfertas/ros2_ipcamera.git
+  git clone https://github.com/iEricYang/ros2_ipcamera.git
   colcon build --symlink-install
   . install/setup.bash
 
